@@ -1,2 +1,2 @@
-# odin-recipes
-Repository of The Odin Project HTML practice recipe project.
+A project to practice HTML learned through The Odin Project. 
+The assignement is to create a basic recipe website. 
